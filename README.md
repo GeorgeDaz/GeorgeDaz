@@ -1,5 +1,5 @@
 # Jorge Andres Daza Vega
-Full Stack Developer
+PERN Developer
 
 ## About Me
 I am a Full Stack Developer with experience in the BPO industry and working in collaborative environments both in operations and projects. I have a strong understanding of agile methodologies, GIT, algorithms, and problem-solving.
